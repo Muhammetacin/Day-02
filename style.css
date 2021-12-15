@@ -19,9 +19,9 @@ footer {
     text-align: center;
 }
 
-/* .intro, .aboutMe, .hobbies, .countOnMe, .funnyStory, footer {
-    justify-content: center;
-} */
+span {
+    color: purple;
+}
 
 @media (min-width: 360px) {
     /*CSS for medium width screens*/
